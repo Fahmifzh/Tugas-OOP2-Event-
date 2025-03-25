@@ -1,0 +1,4 @@
+com\mycompany\main\Main.class
+com\mycompany\main\Event.class
+com\mycompany\main\DatabaseConnection.class
+com\mycompany\main\EventOperations.class
